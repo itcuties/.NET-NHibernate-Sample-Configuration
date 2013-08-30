@@ -1,0 +1,10 @@
+C:\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\ItCuties.NHibernate.exe.config
+F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\ItCuties.NHibernate.exe.config
+F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\ItCuties.NHibernate.exe
+F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\ItCuties.NHibernate.pdb
+F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\Iesi.Collections.dll
+F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\NHibernate.dll
+F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\obj\Debug\ItCuties.NHibernate.csprojResolveAssemblyReference.cache
+F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\obj\Debug\ItCuties.NHibernate.exe
+F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\obj\Debug\ItCuties.NHibernate.pdb
+F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\Customer.hbm.xml
